@@ -1,14 +1,14 @@
 # Serilon - Seven Grupo
 
-### Bem-vindo ao perfil oficial de projetos da **Serilon - Seven Grupo**!
+### Bem-vindo ao repositório interno de TI da **Serilon - Seven Grupo**!
 
-A **Serilon - Seven Grupo** é uma empresa líder no fornecimento de soluções para comunicação visual e impressão digital, atuando também em diversas áreas de serviços e tecnologia, com um portfólio diversificado que inclui soluções para a impressão, gestão de materiais e consultoria para negócios. Somos comprometidos com a inovação e a excelência em nossos produtos e serviços, atendendo a todo o Brasil com uma infraestrutura robusta e parceiros de renome.
+Este espaço é dedicado ao desenvolvimento e manutenção de projetos internos da equipe de TI da **Serilon - Seven Grupo**. Aqui, gerenciamos sistemas e soluções que suportam nossa infraestrutura tecnológica.
 
 ## Linguagens e Tecnologias Utilizadas
 
-- Backend - Node.js (Javascript e Typescript)
-- Frontend - Angular
+- **Backend**: Node.js (JavaScript e TypeScript)
+- **Frontend**: Angular
 
 ---
 
-Siga-nos para acompanhar nossos projetos e inovações no mundo da comunicação visual e tecnologia!
+Este repositório é destinado em grande parte a projetos internos. Para uso e contribuições, entre em contato com a equipe de TI.
