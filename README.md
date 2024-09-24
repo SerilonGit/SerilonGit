@@ -6,13 +6,8 @@ A **Serilon - Seven Grupo** é uma empresa líder no fornecimento de soluções 
 
 ## Linguagens e Tecnologias Utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerilonGit&layout=compact&theme=default)
-
-Este gráfico representa as principais linguagens utilizadas nos projetos da **Serilon - Seven Grupo**.
-
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SerilonGit&show_icons=true&theme=default)
+# Backend - Node.js (Javascript e Typescript)
+# Frontend - Angular
 
 ---
 
