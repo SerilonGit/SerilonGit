@@ -6,8 +6,8 @@ A **Serilon - Seven Grupo** é uma empresa líder no fornecimento de soluções 
 
 ## Linguagens e Tecnologias Utilizadas
 
-# Backend - Node.js (Javascript e Typescript)
-# Frontend - Angular
+- Backend - Node.js (Javascript e Typescript)
+- Frontend - Angular
 
 ---
 
